@@ -105,7 +105,7 @@ lper = li_votes/total_votes
 # print(lper)
 
 
-# Print the following:
+# Print results in the following format
 # Election Results
 # -------------------------
 # Total Votes: 3521001
