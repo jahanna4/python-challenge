@@ -6,4 +6,4 @@ Financial data was analyzed to calculate summary data including; total months, n
 
 Election data was analyzed to calculate summary data including; total votes, list of candidates who received votes, % votes each candidate won, winner of election by popular vote.
 
-Final scripts for each data set printed analysis
+Final scripts for each data set printed analysis to terminal and 
